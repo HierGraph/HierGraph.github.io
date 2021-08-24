@@ -47,7 +47,7 @@ margin-right:20px;
 margin-left:20px;
 }
 
-#right-column{
+/* #right-column{
 margin-left: 250px;
 padding-right: 30px;
 }
@@ -55,7 +55,17 @@ padding-right: 30px;
 #left-column{
 float:left;
 width: 250px;
-}
+} */
+
+#right-column{
+  margin-left: 150px;
+  padding-right: 30px;
+  }
+  
+  #left-column{
+  float:left;
+  width: 150px;
+  }
 
 #graphgardenmainmenu{
 width: 150px;
