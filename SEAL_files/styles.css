@@ -48,8 +48,8 @@ margin-left:20px;
 }
 
 #right-column{
-margin-left: 100px;
-padding-right: 100px;
+margin-left: 150px;
+padding-right: 150px;
 }
 
 #left-column{
@@ -95,7 +95,7 @@ color:#2968d0;
 h2{
 background-image:url(../images/h2_img.gif);
 background-repeat:no-repeat;
-text-indent:13px;
+text-indent:0px;
 font-size:20px;
 font-family:Arial, Helvetica, sans-serif;
 line-height:1.4em;
